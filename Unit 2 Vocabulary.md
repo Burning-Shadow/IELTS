@@ -74,28 +74,28 @@
 
 #### List4
 
-| 单词                                                    | 释义                                                         |
-| ------------------------------------------------------- | ------------------------------------------------------------ |
-| opponent                                                | n. 对手；反对者；敌手<br />adj. 反对的；敌对的               |
-| sponsor                                                 | n. 保证人；赞助者；发起者；<br />v. 发起；赞助；倡议         |
-| decisive                                                | adj. 决定性的；果断的                                        |
-| **substantial**                                         | adj. 大量的；坚固的；实质的；可观的；<br />n. 本质；重要部分 |
-| questionnaire                                           | adj. 调查表；问卷；【**brochure 小册子】【leaflet 传单**】   |
-| viewpoint                                               | n. 观点；                                                    |
-| routine<br />**routine job 日常工作**                   | n. 常规；无聊；<br />adj. 常规的；例行的；                   |
-| **nurture**<br />nature or nurture 先天的还是后天养成的 | vt. 养育；培育；照顾；扶持；<br />n. 养育；培育；            |
-| slight<br />slightly adv.                               | adj. 轻微的；微小的；<br />vt. 轻视；忽略；<br />n. 轻蔑；怠慢； |
-| genetic                                                 | adj. 遗传的；起源的；基因的；                                |
-| similarly                                               | adv. 相似的；                                                |
-| leak                                                    | v. 渗；漏；<br />n. 漏洞；泄漏；                             |
-| literature                                              | n. 文学；文献；                                              |
-| suffer                                                  | vt. 遭受；忍受；容忍；宽恕；听任；允许；<br />vi. 受苦；患病；受损失；变糟； |
-| **impede**                                              | vt. 妨碍；阻止；                                             |
-| spring                                                  | n. 春天；弹簧；跳；泉水；源头；<br />v. 跳；弹；快速站起；突然提出；爆炸；释放；涌出；生长；出现； |
-| biological                                              | adj. 生物的；生物学的；                                      |
-| de**duce**                                              | vt. 演绎；推断；【**duce,duct 管子**】deduction              |
-| doctorate                                               | n. 博士学位<br />bachelor degree 本科学位<br />master degree 硕士学位 |
-| absolute                                                | adj. 绝对的；确实的；专制的；完全的；<br />n. 绝对的事物；   |
+| 单词                                                         | 释义                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| opponent                                                     | n. 对手；反对者；敌手<br />adj. 反对的；敌对的               |
+| sponsor                                                      | n. 保证人；赞助者；发起者；<br />v. 发起；赞助；倡议         |
+| decisive                                                     | adj. 决定性的；果断的                                        |
+| **substantial**                                              | adj. 大量的；坚固的；实质的；可观的；<br />n. 本质；重要部分 |
+| questionnaire                                                | adj. 调查表；问卷；【**brochure 小册子】【leaflet 传单**】   |
+| viewpoint                                                    | n. 观点；                                                    |
+| routine<br />**routine job 日常工作**                        | n. 常规；无聊；<br />adj. 常规的；例行的；                   |
+| **nurture**<br />nature or nurture 先天的还是后天养成的      | vt. 养育；培育；照顾；扶持；<br />n. 养育；培育；            |
+| slight<br />slightly adv.                                    | adj. 轻微的；微小的；<br />vt. 轻视；忽略；<br />n. 轻蔑；怠慢； |
+| genetic                                                      | adj. 遗传的；起源的；基因的；                                |
+| similarly                                                    | adv. 相似的；                                                |
+| leak                                                         | v. 渗；漏；<br />n. 漏洞；泄漏；                             |
+| literature                                                   | n. 文学；文献；                                              |
+| suffer                                                       | vt. 遭受；忍受；容忍；宽恕；听任；允许；<br />vi. 受苦；患病；受损失；变糟； |
+| **impede**                                                   | vt. 妨碍；阻止；                                             |
+| spring                                                       | n. 春天；弹簧；跳；泉水；源头；<br />v. 跳；弹；快速站起；突然提出；爆炸；释放；涌出；生长；出现； |
+| biological                                                   | adj. 生物的；生物学的；                                      |
+| de**duce**                                                   | vt. 演绎；推断；【**duce,duct 管子**】deduction              |
+| doctorate                                                    | n. 博士学位<br />bachelor degree 本科学位<br />master degree 硕士学位 |
+| absolute<br />solve v. 解决<br />resolve v. 解决（程度更深）<br />**resolution** n. 解决；**坚定；坚决；** | adj. 绝对的；确实的；专制的；完全的；<br />n. 绝对的事物；   |
 
 
 
