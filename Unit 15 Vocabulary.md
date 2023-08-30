@@ -90,11 +90,11 @@
 | vice versa                                                   | adv. 反过来也是一样地；                                      |
 | foetus                                                       | n. 胚胎；胎儿；                                              |
 | merge                                                        | v. 合并；融合；佳宁；                                        |
-| aware                                                        | adj. 知道的；意识到的；                                      |
-| label                                                        | vt. 贴标签于；把...归类；<br />n. 标记；标签；称号；         |
+| aware<br />be aware of sth 意识到...                         | adj. 知道的；意识到的；                                      |
+| label<br />label as 给...打xxx标签；<br />the third step is labelled as "surface runoff" 第三部被称为“surface runoff” | vt. 贴标签于；把...归类；<br />n. 标记；标签；称号；         |
 | guarantee                                                    | n. 保证；担保；抵押品；<br />vt. 保证；担保；                |
 | interrelationship                                            | n. 相互关系；                                                |
-| stationery                                                   | n. 文具；信笺；                                              |
-| limestone                                                    | n. 石灰石；                                                  |
-| impulse                                                      | n. 冲动；心血来潮；脉冲；神经冲动；<br />vt. 推动；          |
+| stationery<br />stationary adj. 不动的，静止的；不变的；稳定的； | n. 文具；信笺；                                              |
+| **limestone<br />lime n. 石灰；酸橙；**                      | n. 石灰石；                                                  |
+| impulse【pel, puls = drive, push】                           | n. **冲动**；心血来潮；脉冲；神经冲动；<br />vt. 推动；      |
 
