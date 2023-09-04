@@ -40,61 +40,61 @@
 | inclination<br />incline v. 倾向；                           | n. 倾向；意愿；趋势；斜坡；倾斜度；                          |
 | pressure<br />under pressure 压力大                          | n. 压强；压力；压迫；<br />v. 施压；                         |
 | con**vic**tion  【vic = 胜利】<br />victor n. 胜利者<br />victory n. 胜利；成功；<br />convict v. 坚信；定罪； conviction n.<br />evict v. 驱逐；逐出；<br />incincible adj. 不可战胜的；不可改变的；<br />convince v. 使确信；说服；劝服；convincing adj. 令人信服的；v. 说服； | n. 坚信；定罪；信服；                                        |
-| tranquility                                                  | n. 宁静；平静；稳定；                                        |
-| facilitate                                                   | vt. 促进；帮助；使...容易；                                  |
+| tranquility<br />tranquil adj. 宁静的 = peaceful<br />【quil 安静】 | n. 宁静；平静；稳定；                                        |
+| **fac**ilitate  【fac 做】可代替 promote                     | **vt. 促进；帮助；使...容易；**                              |
 | grand                                                        | adj. 重大的；豪华的；宏伟的；壮丽的；<br />n. 大钢琴；一千美元 |
-| acumen                                                       | n. 敏锐；聪明；                                              |
-| dissertation                                                 | n. 论文；                                                    |
-| heap                                                         | n. 堆；许多；破车；<br />vt. 使成堆；装满；大量给予；        |
-| blame                                                        | vt. 责备；把...归咎于；<br />n. 责备；过失；                 |
+| acumen 【acu, acid, acrid, acer 酸】<br />acute adj. 敏锐的  | n. 敏锐；聪明；                                              |
+| dis**sert**ation  【sert 安排】                              | n. 论文；                                                    |
+| heap                                                         | n. **堆**；许多；破车；<br />vt. 使成堆；装满；大量给予；    |
+| blame<br />blame on 归咎于；                                 | vt. 责备；把...归咎于；<br />n. 责备；过失；                 |
 
 #### List3
 
-| 单词                  | 释义                                                         |
-| --------------------- | ------------------------------------------------------------ |
-| frame                 | n. 骨架；身躯；结构；框；帧；<br />v. 表达；制定；陷害；     |
-| installment           | n. 分期付款；部分；分册；<br />n. 安装；安置；               |
-| symbolism             | n. 象征主义；象征；符号化；                                  |
-| ascribe               | v. 归因于；归于；                                            |
-| abstract              | adj. 抽象的；理论的；<br />n. 摘要；<br />v. 提取；把...抽象出；做...的摘要； |
-| disruption            | n. 分裂；破裂；毁坏；                                        |
-| Self-esteem           | n. 自尊；自负；                                              |
-| literate              | n. 识字的人；受过教育的人；博学的人；<br />adj. 有读写能力的；博学的；优美的； |
-| extinction            | n. 消失；消减；废止；                                        |
-| endanger              | vt. 危害；危及；                                             |
-| perception            | n. 观念；洞察力；                                            |
-| prediction            | n. 预言；预报；                                              |
-| foster                | vt. 领养；培养；促进；鼓励；<br />adj. 收养的；              |
-| ancestral             | adj. 祖先的；祖传的；                                        |
-| rekindle              | v. 重新点燃；                                                |
-| revival               | n. 复兴；复活；恢复精神；                                    |
-| inevitable            | adj. 不可避免的；必然发生的；                                |
-| disenchantment        | n. 失望；不抱幻想；                                          |
-| acupuncture           | n. 针灸；                                                    |
-| loath = loathe = loth | adj. 不愿意的；勉强的                                        |
+| 单词                                                         | 释义                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| frame                                                        | n. **骨架**；身躯；结构；**框**；帧；<br />v. 表达；制定；**陷害**； |
+| installment                                                  | n. 分期付款；部分；分册；<br />n. 安装；安置；               |
+| symbolism                                                    | n. 象征主义；象征；符号化；                                  |
+| **ascribe<br />ascribe to 归咎于 = blame on**                | v. 归因于；归于；                                            |
+| abstract                                                     | adj. 抽象的；理论的；<br />n. 摘要；<br />v. 提取；把...抽象出；做...的摘要； |
+| dis**rupt**ion 【rupt 断】                                   | n. 分裂；破裂；毁坏；                                        |
+| self-esteem                                                  | n. 自尊；自负；                                              |
+| literate  【liter = letter】<br />illiterate adj. 不识字的；n. 文盲<br />literature n. 文学；文学作品；<br />obliterate v. 消灭；摧毁；涂抹；obliteration n. 闭塞；涂去；删除； | n. 识字的人；受过教育的人；博学的人；<br />adj. 有读写能力的；博学的；优美的； |
+| **extinction**                                               | n. 消失；消减；废止；                                        |
+| endanger                                                     | vt. 危害；危及；                                             |
+| **perception 【cept 拿】【per 全部】<br />perceive = sense vt. 认为，理解** | n. 观念；洞察力；                                            |
+| prediction  【dict 说】                                      | n. 预言；预报；                                              |
+| foster                                                       | vt. 领养；培养；促进；鼓励；<br />adj. 收养的；              |
+| ancestral                                                    | adj. 祖先的；祖传的；                                        |
+| rekindle<br />kindle v. 点燃，开始燃烧；激起，激发           | v. 重新点燃；                                                |
+| revival                                                      | n. 复兴；复活；恢复精神；                                    |
+| inevitable<br />evitable adj. 可以避免的                     | adj. 不可避免的；必然发生的；                                |
+| disenchantment<br />enchant v. 使陶醉，使入迷；对……施魔法;   | n. 失望；不抱幻想；                                          |
+| acupuncture 【acu 酸】【point, punct 点、尖、刺】<br />**appoint v. 任命；委派；约定；安排；<br />disappoint v. 使失望；使破灭；使落空；**<br />punctual adj. 准时的；守时的；<br />puncture n. 轮胎破洞；v. 戳破；<br />punctuate vt. 不时打断；强调； | n. 针灸；                                                    |
+| loath = loathe = loth<br />loath doing sth                   | adj. 不愿意的；勉强的                                        |
 
 #### List4
 
-| 单词        | 释义                                                         |
-| ----------- | ------------------------------------------------------------ |
-| orthodox    | adj. 正统的；传统的；东正教的；                              |
-| popularity  | n. 普及；流行；名望；受欢迎；                                |
-| amplify     | v. 扩大；详述；增强；                                        |
-| reliance    | n. 信赖；所信赖的人或物；                                    |
-| nightmare   | n. 噩梦；使人极其痛苦的经历或事情；                          |
-| leap        | v. 跳跃；跃；<br />n. 跳跃；跃；                             |
-| conscious   | adj. 神志清醒的；意识到的；自觉的；<br />n. 意识；           |
-| divine      | adj. 神圣的；<br />vt. 推断；<br />vi. 预言；理解；<br />n. 牧师；神学家； |
-| decompose   | v. 分解；拆分；拆解；腐烂；                                  |
-| spot on     | 完全正确                                                     |
-| investigate | v. 调查；研究；                                              |
-| underneath  | adv. 在下面；<br />n. 下部；底部；<br />prep. 在...下面；    |
-| division    | n. 划分；除法；部门；分开；师（军队）                        |
-| gamble      | v. 赌博；冒险；孤注一掷；<br />n. 赌博；冒险；               |
-| ancient     | adj. 古老的；古代的；<br />n. 古人；                         |
-| strand      | n. 缕；海滨；河岸；海滩；<br />v. 使陷入困境；弄断；使落后；使搁浅； |
-| speciment   | n. 标本；样本；                                              |
-| motive      | n. 动机；目的；主题；<br />adj. 发动的；运动的；动机的；<br />vt. 促使； |
-| furious     | adj. 狂怒的；猛烈的；                                        |
-| alternative | adj. 两者择一的；供选择的；非主流的；<br />n. 二者择一；供替代的选择； |
+| 单词                                                         | 释义                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ortho**dox**  【dox 观点】<br />heterodox adj. 异端的；非正统的；<br />paradox n. 矛盾的人/事物/情况 | adj. 正统的；传统的；东正教的；                              |
+| popularity                                                   | n. 普及；流行；名望；受欢迎；                                |
+| **amp**lify  【amp 大】<br />ample adj. 充足的；充裕的；<br />amplitude n. 广度；阔度； | v. 扩大；详述；增强；                                        |
+| reliance                                                     | n. 信赖；所信赖的人或物；                                    |
+| nightmare                                                    | n. 噩梦；使人极其痛苦的经历或事情；                          |
+| leap<br />leap over 跳过<br />take leap                      | v. 跳跃；跃；<br />n. 跳跃；跃；                             |
+| con**sci**ous  【sci 知道】<br />conscience n. 良知；良心；愧疚；<br />**subconscious** adj. n. 下意识的；潜意识的； | adj. 神志清醒的；意识到的；自觉的；<br />n. 意识；           |
+| divine                                                       | adj. 神圣的；<br />vt. 推断；<br />vi. 预言；理解；<br />n. 牧师；神学家； |
+| **decompose<br />compose v. 构成；组成；**                   | v. 分解；拆分；拆解；腐烂；                                  |
+| spot on<br />i'm spot on with your advice                    | 完全正确                                                     |
+| investigate                                                  | v. 调查；研究；                                              |
+| underneath                                                   | adv. 在下面；<br />n. 下部；底部；<br />prep. 在...下面；    |
+| division                                                     | n. 划分；除法；部门；分开；师（军队）                        |
+| gamble<br />take gambles 去冒险 = take chances；             | v. 赌博；冒险；孤注一掷；<br />n. 赌博；冒险；               |
+| **anci**ent  【anci, antiq = 古老】<br />antique adj. 古老的；古董的；n. 古董；<br />antiquated adj. 过时的；陈旧的；v. 使废弃； | adj. 古老的；古代的；<br />n. 古人；                         |
+| strand                                                       | n. 缕；海滨；河岸；海滩；<br />v. 使陷入困境；弄断；使落后；使搁浅； |
+| **spec**iment  【spec 看，样子】                             | n. 标本；样本；                                              |
+| motive  【mov 动】                                           | n. 动机；目的；主题；<br />adj. 发动的；运动的；动机的；<br />vt. 促使； |
+| furious                                                      | adj. 狂怒的；猛烈的；                                        |
+| alternative<br />alter v. 改变；改动；<br />alternation n. 交替；轮流；间隔； | adj. 两者择一的；供选择的；非主流的；<br />n. 二者择一；供替代的选择； |
 
