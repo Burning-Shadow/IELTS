@@ -75,26 +75,26 @@
 
 #### List4
 
-| 单词                                                    | 释义                                                         |
-| ------------------------------------------------------- | ------------------------------------------------------------ |
-| wrap<br />unwrap vt. 打开                               | v. 包；裹；覆盖；隐藏；<br />n. 围巾；披肩；                 |
-| confine                                                 | vt. 限制；禁闭；<br />n. 范围；界限；约束；限制；            |
-| limitation                                              | n. 限制；限度；缺点；                                        |
-| chain<br />unchained v. 解救                            | n. 束缚；链条；<br />vt. 束缚；用铁链锁住                    |
-| sip                                                     | n. 啜饮；<br />v. 啜饮；                                     |
-| tedious<br />boring<br />dull                           | adj. 沉闷的；单调乏味的；                                    |
-| **path**ology  【path = feeling 感情、病痛方面】        | n. 病理学；                                                  |
-| setting<br />beautiful setting 美丽的环境/背景          | n. 背景；环境；镶嵌；安装；放置；                            |
-| mood<br />enhance your mood<br />mood enhancer 调节情绪 | n. 心情；情绪；气氛；                                        |
-| extinct  【stin 刺、针】                                | adj. 灭绝的；熄灭的；消亡的；                                |
-| aridity<br />arid adj. 干旱的；                         | n. 干旱；贫瘠；                                              |
-| vision                                                  | n. 视觉；幻觉；眼光；洞察力；想象力；<br />v. 幻想；设想；   |
-| sausage                                                 | n. 香肠；                                                    |
-| organism                                                | n. 有机体；有机组织；生物体；                                |
-| <u>sur</u>**veil**ance  【sur 在上面】【veil 看】       | n. 监视；监督；                                              |
-| senior                                                  | adj. 地位较高的；年长的；资深的；<br />n. 上司；年长者；长辈； |
-| vague                                                   | adj. 不明确的；模糊的；茫然的；犹豫不决的；                  |
-| translate                                               | v. 翻译；解释；转移；调动；                                  |
-| proverty                                                | n. 贫困；贫乏；劣质；                                        |
-| breakwater                                              | n. 防波堤；                                                  |
+| 单词                                                         | 释义                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| wrap<br />unwrap vt. 打开                                    | v. 包；裹；覆盖；隐藏；<br />n. 围巾；披肩；                 |
+| confine                                                      | vt. 限制；禁闭；<br />n. 范围；界限；约束；限制；            |
+| limitation                                                   | n. 限制；限度；缺点；                                        |
+| chain<br />unchained v. 解救                                 | n. 束缚；链条；<br />vt. 束缚；用铁链锁住                    |
+| sip                                                          | n. 啜饮；<br />v. 啜饮；                                     |
+| tedious<br />boring<br />dull                                | adj. 沉闷的；单调乏味的；                                    |
+| **path**ology  【path = feeling 感情、病痛方面】             | n. 病理学；                                                  |
+| setting<br />beautiful setting 美丽的环境/背景               | n. 背景；环境；镶嵌；安装；放置；                            |
+| mood<br />enhance your mood<br />mood enhancer 调节情绪      | n. 心情；情绪；气氛；                                        |
+| extinct  【stin 刺、针】                                     | adj. 灭绝的；熄灭的；消亡的；                                |
+| aridity<br />arid adj. 干旱的；                              | n. 干旱；贫瘠；                                              |
+| vision                                                       | n. 视觉；幻觉；眼光；洞察力；想象力；<br />v. 幻想；设想；   |
+| sausage                                                      | n. 香肠；                                                    |
+| organism                                                     | n. 有机体；有机组织；生物体；                                |
+| <u>sur</u>**veil**ance  【sur 在上面】【veil 看】            | n. 监视；监督；                                              |
+| senior n. <美>（高中或大学的）四年级学生；<br />junior adj. 年龄较小的；n. 年幼者；n. <美>（高中或大学的）三年级学生；<br />sophomore n. <美>（高中或大学的）二年级学生；<br />freshman n. <美>（中学或大学的）一年级学生； | adj. 地位较高的；年长的；资深的；<br />n. 上司；年长者；长辈； |
+| **vag**ue  【vag 漫游】                                      | adj. 不明确的；模糊的；茫然的；犹豫不决的；                  |
+| translate<br />translator                                    | v. 翻译；解释；转移；调动；                                  |
+| proverty<br />poor adj. 贫穷的；可怜的                       | n. 贫困；贫乏；劣质；                                        |
+| breakwater                                                   | n. 防波堤；                                                  |
 
