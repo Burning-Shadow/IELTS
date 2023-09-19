@@ -96,5 +96,5 @@
 | accumulate                         | v. 积累；增加；聚集；                                        |
 | transmit                           | vt. 传达；传染；传送；<br />vi. 发信号；                     |
 | identification                     | n. 确认；坚定；识别；身份证明；                              |
-| wander                             | vi. 漫步；蜿蜒；迷路；闲逛；徘徊；<br />vt. 漫步于；<br />n. 漫游；徘徊；闲逛； |
+| wander<br />wonder n. 奇迹         | vi. 漫步；蜿蜒；迷路；闲逛；徘徊；<br />vt. 漫步于；<br />n. 漫游；徘徊；闲逛； |
 
